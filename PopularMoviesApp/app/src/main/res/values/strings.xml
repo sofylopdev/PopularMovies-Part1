@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+
+    <!--Spinner name and items (in MainActivity)-->
+    <string name="sort_by">Sort By</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+   <!--Detail Activity strings-->
+    <string name="total_rating">%1$s /10</string>
+
+    <!--Error messages-->
+    <string name="no_internet_connection">Please connect to the internet.</string>
+    <string name="no_image_available">No image available</string>
+    <string name="error_network_or_json">There was a problem with the request to MovieDb.
+        We apologise for the inconvenience.
+        Check if there\'\s an update available or report this problem.</string>
+
+</resources>

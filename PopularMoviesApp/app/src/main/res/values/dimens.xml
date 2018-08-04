@@ -1,0 +1,26 @@
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <!--Main Activity-->
+    <dimen name="frame_spacing">2dp</dimen>
+    <dimen name="recycler_spacing">1dp</dimen>
+    <dimen name="small_screen_height">200dp</dimen>
+    <dimen name="padding_main">2dp</dimen>
+
+    <!--Spinner-->
+    <dimen name="spinner_height">48dp</dimen>
+    <dimen name="spinner_spacing">10dp</dimen>
+    <dimen name="spinner_text_size">16sp</dimen>
+
+    <!--Detail Activity-->
+    <dimen name="title_spacing">36dp</dimen>
+    <dimen name="app_bar_layout_height">256dp</dimen>
+    <dimen name="spacing_title_image">48dp</dimen>
+    <dimen name="overview_extra_line_spacing">2sp</dimen>
+    <dimen name="overview_top_margin">8dp</dimen>
+    <dimen name="poster_height">250dp</dimen>
+    <dimen name="poster_width">150dp</dimen>
+
+
+</resources>

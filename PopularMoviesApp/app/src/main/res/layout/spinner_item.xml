@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/spinner_height"
+    android:textSize="@dimen/spinner_text_size"
+    android:gravity="start|center_vertical"
+    android:textColor="@android:color/white"
+    app:backgroundTint="@android:color/white"
+    app:background="@color/colorPrimary"
+    android:padding="@dimen/spinner_spacing" />
